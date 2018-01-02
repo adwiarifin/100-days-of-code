@@ -22,10 +22,12 @@
 
 **Today's Progress**: Make minimum html with jquery hosted at google for Random Quote Machine Project. Add script to get rest api from Talaikis. On document ready, it will be load data from API server, and if button clicked it will load data too. 
 
-**THougts**: For now, there is no design, just basic functionality. Tomorrow must be done the basic design.
+**Thougts**: For now, there is no design, just basic functionality. Tomorrow must be done the basic design.
 
 ** Link to Projects: [Random Quote Machine](https://github.com/adwiarifin/random-quote-machine)
 
 ### Day 2: Januari 2, 2018
 
-**Today's Progress**: Yesterday, i forgot to push my commit, fortunately i got help from my sister to remote my computer so i can push my commit yesterday. Don't forget to get the latest update from our repository with `git pull` command. Today, i want to bootstrap for the second project, Show local weather. Today, i implement to get location from my ip.
+**Today's Progress**: Yesterday, i forgot to push my commit, fortunately i got help from my sister to remote my computer so i can push my commit yesterday. Don't forget to get the latest update from our repository with `git pull` command. Today, i want to bootstrap for the second project, Show local weather. I have 2 method implementation, first using html5 geolocation, and second using geoip. which one should i use?
+
+** Link to Projects: [Local Weather](https://github.com/adwiarifin/local-weather)
