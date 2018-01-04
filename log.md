@@ -31,3 +31,13 @@
 **Today's Progress**: Yesterday, i forgot to push my commit, fortunately i got help from my sister to remote my computer so i can push my commit yesterday. Don't forget to get the latest update from our repository with `git pull` command. Today, i want to bootstrap for the second project, Show local weather. I have 2 method implementation, first using html5 geolocation, and second using geoip. which one should i use?
 
 ** Link to Projects: [Local Weather](https://github.com/adwiarifin/local-weather)
+
+### Day 3: Januari 3, 2018
+
+**Today's Progress**: I'm not doing my own project, i'm helping my friend to code theirs. It's java exam application. The code i will not publish it here, because i have not permission from the owner.
+
+### Day 4: Januari 4, 2018
+
+**Today's Progress**: Today, i'm not doing my own project again. But i glad that i can teach my friend to use the github. And now we're doing some project together to make java application store for himself. He's doing the database design and form design, and me doing the code. stay tune.
+
+** Link to Projects: [Fauzi Store](https://github.com/adwiarifin/FauziStore)
