@@ -41,3 +41,9 @@
 **Today's Progress**: Today, i'm not doing my own project again. But i glad that i can teach my friend to use the github. And now we're doing some project together to make java application store for himself. He's doing the database design and form design, and me doing the code. stay tune.
 
 ** Link to Projects: [Fauzi Store](https://github.com/adwiarifin/FauziStore)
+
+### Day 5: Januari 5, 2018
+
+**Today's Progress**: add some login functionalities in FauzyStore.
+
+** Link to Projects: [Fauzi Store](https://github.com/adwiarifin/FauziStore)
