@@ -47,3 +47,9 @@
 **Today's Progress**: add some login functionalities in FauzyStore.
 
 ** Link to Projects: [Fauzi Store](https://github.com/adwiarifin/FauziStore)
+
+### Day 5: Januari 6, 2018
+
+**Today's Progress**: add stock's functionalities in FauzyStore.
+
+** Link to Projects: [Fauzi Store](https://github.com/adwiarifin/FauziStore)
