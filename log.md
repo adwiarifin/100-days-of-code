@@ -48,8 +48,17 @@
 
 ** Link to Projects: [Fauzi Store](https://github.com/adwiarifin/FauziStore)
 
-### Day 5: Januari 6, 2018
+### Day 6: Januari 6, 2018
 
 **Today's Progress**: add stock's functionalities in FauzyStore.
 
 ** Link to Projects: [Fauzi Store](https://github.com/adwiarifin/FauziStore)
+
+### Day 7: Januari 7, 2018
+
+**Today's Progress**: actually i write this progress at 11th january. i write this because i feel i miss the day. and i found out that i'm not writing in this day. And it this day, i continue FauzyStore project, and add the Restock's functionalities.
+
+** Link to Projects: [Fauzi Store](https://github.com/adwiarifin/FauziStore)
+
+### Day 8: Januari 11, 2018
+**Today's Progress**: i sick for three days consecutively. and i feel bad that i can't code. But today i will continue my journey again. i will update again this night.
