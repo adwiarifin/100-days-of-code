@@ -62,3 +62,8 @@
 
 ### Day 8: Januari 11, 2018
 **Today's Progress**: i sick for three days consecutively. and i feel bad that i can't code. But today i will continue my journey again. i will update again this night.
+
+### Day 9: Januari 18, 2018
+**Today's Progress**: i completely lost of track of commitment to code since 1 or 2 week ago. But today, i finally complete my FauziStore Project. All basic functionality is completed. There are still bug in some place, but my friend that collaborated with me said that it was no problem. It can be fixed later, and he satisfied with the current state of the project.
+
+** Link to Projects: [Fauzi Store](https://github.com/adwiarifin/FauziStore)
