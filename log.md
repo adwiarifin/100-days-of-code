@@ -67,3 +67,8 @@
 **Today's Progress**: i completely lost of track of commitment to code since 1 or 2 week ago. But today, i finally complete my FauziStore Project. All basic functionality is completed. There are still bug in some place, but my friend that collaborated with me said that it was no problem. It can be fixed later, and he satisfied with the current state of the project.
 
 ** Link to Projects: [Fauzi Store](https://github.com/adwiarifin/FauziStore)
+
+### Day 10: Februari 3, 2018
+**Today's Progress**: i don't know which day is it. but yesterday i learn to build custom php mvc framework, and this morning i run quick implementation of php oauth2 server.
+
+** Link to Projects: [PHP MVC Framework](https://github.com/adwiarifin/php-mvc) [PHP OAuth2 Server](https://github.com/adwiarifin/php-oauth2-server)
