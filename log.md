@@ -71,4 +71,4 @@
 ### Day 10: Februari 3, 2018
 **Today's Progress**: i don't know which day is it. but yesterday i learn to build custom php mvc framework, and this morning i run quick implementation of php oauth2 server.
 
-** Link to Projects: [PHP MVC Framework](https://github.com/adwiarifin/php-mvc) [PHP OAuth2 Server](https://github.com/adwiarifin/php-oauth2-server)
+** Link to Projects: [PHP MVC Framework](https://github.com/adwiarifin/php-mvc) | [PHP OAuth2 Server](https://github.com/adwiarifin/php-oauth2-server)
